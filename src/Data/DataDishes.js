@@ -1,4 +1,4 @@
-const dishesData = [
+const dataDishes = [
   {
     id: 1,
 
@@ -40,7 +40,7 @@ const dishesData = [
 
     price: 40,
 
-    img: "baked-salmon",
+    img: "bakedsalmon",
 
     name: "Baked Salmon",
 
@@ -52,7 +52,7 @@ const dishesData = [
 
     price: 15,
 
-    img: "cheese-balls",
+    img: "cheeseballs",
 
     name: "Cheese balls",
 
@@ -64,7 +64,7 @@ const dishesData = [
 
     price: 20,
 
-    img: "easy-pasta",
+    img: "easypasta",
 
     name: "Easy Pasta",
 
@@ -76,7 +76,7 @@ const dishesData = [
 
     price: 25,
 
-    img: "spag-tomato",
+    img: "spagtomato",
 
     name: "Spaghetti",
 
@@ -88,7 +88,7 @@ const dishesData = [
 
     price: 20,
 
-    img: "mixed-pizza",
+    img: "mixedpizza",
 
     name: "Pizza",
 
@@ -100,7 +100,7 @@ const dishesData = [
 
     price: 20,
 
-    img: "spring-rolls",
+    img: "springrolls",
 
     name: "Spring Rolls",
 
@@ -112,7 +112,7 @@ const dishesData = [
 
     price: 15,
 
-    img: "tomato-salad",
+    img: "tomatosalad",
 
     name: "Tomato Salad",
 
@@ -132,4 +132,4 @@ const dishesData = [
   },
 ];
 
-export default dishesData;
+export default dataDishes;
